@@ -144,6 +144,8 @@ int main() {
         weighted_total, final_letter_grade);
 
     cout << "GIT TESTING" << endl;
+    
+    cout << "Git TESTing 2" << endl;
 }
 
 // These methods are already implemented for you
