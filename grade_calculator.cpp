@@ -142,6 +142,8 @@ int main() {
     print_results(
         exam_average, hw_average, lw_average, engagement,
         weighted_total, final_letter_grade);
+
+    cout << "GIT TESTING" << endl;
 }
 
 // These methods are already implemented for you
